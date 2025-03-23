@@ -37,7 +37,8 @@ Welcome to the **_Lost in Time Escape Room_**! This interactive Python project i
 
 # 👥 Credits
 
-This project was brought to life by the creative collaboration of Beatriz, Borja, Ivan and Max. Together, we explored game mechanics, sound integration, and interactive storytelling. 
+This project was brought to life by the creative collaboration of *Beatriz, Borja, Ivan and Max*.  
+Together, we explored game mechanics, sound integration, and interactive storytelling. 
 
 
 🎵 **Get ready to travel through time and escape before it's too late!** 🕰️🔑
